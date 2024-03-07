@@ -1,0 +1,1 @@
+{"version":3,"file":"create-truck.dto.js","sourceRoot":"","sources":["../../../../src/truck/dto/create-truck.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,qDAAkD;AAClD,6CAA8C;AAC9C,MAAa,cAAc;CAe1B;AAdG;IAAC,IAAA,qBAAW,GAAE;IACb,IAAA,0BAAQ,GAAE;;gDACe;AAE1B;IAAC,IAAA,qBAAW,GAAE;IACb,IAAA,uBAAK,GAAE;;gDACkB;AAE1B;IAAC,IAAA,qBAAW,GAAE;IACb,IAAA,uBAAK,GAAE;;8CACgB;AAX5B,wCAeC"}
